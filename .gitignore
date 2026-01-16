@@ -1,0 +1,31 @@
+# Ignore Chroma DB
+AI Court Evidence Analyzer/ai-legal-assistant/Chroma_vector/
+*.sqlite3
+
+AI Court Evidence Analyzer/ai-legal-assistant/env_template.txt
+*.txt
+
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Environment variables and keys
+.env
+*.env
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# VSCode settings
+.vscode/
